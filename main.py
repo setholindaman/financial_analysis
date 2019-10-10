@@ -3,7 +3,7 @@ import os
 import csv
 
 #set path fro datafile
-budgetData = os.path.join("..","PyBank","budget_data.csv")
+budgetData = os.path.join("..","budget_data.csv")
 
 #set the output path of text datafile
 outputAnalysis = "Budget Analysis.txt"
